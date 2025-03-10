@@ -1,4 +1,4 @@
-SITE DO GRU<!DOCTYPE html> Corinthiano
+
 <!DOCTYPE html>
 <html lang="PT-BR">
   <head>
