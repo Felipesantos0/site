@@ -4,16 +4,16 @@ SITE DO GRU<!DOCTYPE html> Corinthiano
   <head>
       <style>
           body{
-            background-color:#000080 ;
+            background-color:#ffc400 ;
           }
           .site{
-            width:inherit;
-            height:700px;
+            width:1000px;
+            height:900px;
           }
           .header{
             width:inherit;
             height:100px;
-            background-color:#ffffff ;
+            background-color:#e6164e ;
           }
           .main{
             width:inherit;
@@ -22,8 +22,29 @@ SITE DO GRU<!DOCTYPE html> Corinthiano
           }
           .footer{
             width:inherit;
-            height:100px;
-            background-color:#ffffff ;
+            height:50px;
+            background-color:#bf0fdf ;
+          }
+          .esquerda{
+            width: 200px;
+            height:inherit;
+            background-color:#ff0000 ;
+            display: inline-block
+            float:right;
+          }
+          .centro{
+            width: 600px;
+            height:inherit;
+            background-color:#ff0000 ;
+            display: inline-block
+            float:right;
+          }
+          .direito{
+            width: 200px;
+            height:inherit;
+            background-color:#ff0000 ;
+            display: inline-block
+            float:right;
           }
       </style>
   </head>
